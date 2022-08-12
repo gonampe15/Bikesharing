@@ -9,6 +9,8 @@ We need to gather more data in order to create a story that will convince invest
 ### 1. Checkout Times for All Users
 Riders typically like to bike between 2 and 20 minutes.
 
+[Times_Users](Resources/TimesforUsers.PNG)
+
 ### 2. Checkout Times by Gender
 Males are significantly higher users than others.
 
